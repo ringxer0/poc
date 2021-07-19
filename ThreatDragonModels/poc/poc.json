@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "title": "poc",
+    "owner": "poc-owner",
+    "description": "benifits"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "poc-contrib-1"
+      },
+      {
+        "name": "poc-contrib-2"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "enterprise architecture",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "poc-iso"
+  }
+}
